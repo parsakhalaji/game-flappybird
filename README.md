@@ -15,7 +15,7 @@ There are no prerequisites to run this game, other than a modern web browser tha
 Follow these steps to get a local copy up and running:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/parsakhalaji/flappy-bird-js-html.git
+git clone https://github.com/parsakhalaji/game-flappybird.git
 2. Navigate to the cloned repository's directory.
 3. Open the `index.html` file in your web browser.
 
